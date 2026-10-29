@@ -56,7 +56,7 @@ Laporan masalah dan usulan pengembangan dapat disampaikan melalui tab **Issues**
 ## Pengembang
 
 **Muhammad Ulinnuha**  
-Website: [ascallyn.my.id](https://ascallyn.my.id/)
+Website: [ulinnuha.my.id](https://ulinnuha.my.id/)
 
 ## Lisensi
 
